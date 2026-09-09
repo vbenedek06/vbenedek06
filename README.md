@@ -10,11 +10,12 @@ React · TypeScript · Vite · Node.js · NestJS · PostgreSQL · Prisma · REST
 
 ## Featured projects
 
-**GuideMate** — travel planning platform (team project, 3 contributors). My part: the JWT authentication flow (login/register/logout, typed API client), the trip-planning/itinerary UI, and the Mapbox integration.
+**GuideMate** — travel planning platform. Team examination project developed collaboratively. My part: the JWT authentication flow (login/register/logout, typed API client), the trip-planning/itinerary UI, and the Mapbox integration.
 [github.com/ninjonn/GuideMate](https://github.com/ninjonn/GuideMate)
 
 **MetalFusion** — marketing website built for a Budapest CNC manufacturing client. Solo build: React, TypeScript, Vite, SEO setup.
 [github.com/vbenedek06/metalfusion-website](https://github.com/vbenedek06/metalfusion-website)
+Live: [metalfusion.eu](https://metalfusion.eu)
 
 ## Contact
 
